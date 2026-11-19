@@ -1,0 +1,1 @@
+uploads/*\n!uploads/.gitkeep\nartifacts/*.joblib\n__pycache__/\n.venv/\n
